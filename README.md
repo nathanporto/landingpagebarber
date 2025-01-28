@@ -25,3 +25,8 @@ HTML5: Estruturação do conteúdo da página.
 CSS3: Estilização e design responsivo.
 
 JavaScript: Interatividade e funcionalidades dinâmicas.
+
+
+
+
+LINK DO PROJETO: https://landingpagebarber-beta.vercel.app/
